@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="css/jemdoc.css" type="text/css" />
 <link rel="stylesheet" href="css/jacob.css" type="text/css" />
-<title>jemdoc &ndash; running jemdoc</title>
+<title>Tutorials & Talks</title>
 </head>
 <body>
 <!-- MathJax -->
@@ -39,90 +39,27 @@ _gaq.push(['_trackPageview']);
 <div class="menu-item"><a href="News.html">News</a></div>
 <div class="menu-category">Research</div>
 <div class="menu-item"><a href="Publication.html">Publication</a></div>
-<div class="menu-item"><a href="talk.html">Tutorial&nbsp;&&nbsp;Talks</a></div>
+<div class="menu-item"><a href="talk.html" class="current">Tutorial&nbsp;&&nbsp;Talks</a></div>
 <div class="menu-category">Others</div>
 <div class="menu-item"><a href="Awards.html">Awards&nbsp;and&nbsp;Honors</a></div>
 <div class="menu-item"><a href="Activities.html">Professional&nbsp;Activities</a></div>
 </td>
 <td id="layout-content">
 <div id="toptitle">
-<h1>jemdoc &ndash; running jemdoc</h1>
+<h1>Tutorials & Talks</h1>
 </div>
-<p>Make sure
-<a href="http://www.python.org/" target=&ldquo;blank&rdquo;>Python</a> is installed, put jemdoc in your path somewhere,
-type in your file, and run
+<ul>
+<li><p>[06/2023] M. Hua, “面向6G通感一体化：感知与通信折中机理探索与分析,”  Seminar at Beijing Institute of Technology.
 </p>
-<div class="codeblock">
-<div class="blockcontent"><pre>
-jemdoc index.jemdoc
-</pre></div></div>
-<p>This will use a default configuration for the html elements, and create an
-<tt>index.html</tt>.
-</p>
-<p>Even simpler, you can omit the extension, and jemdoc will still
-process the <tt>index.jemdoc</tt> file, as in
-</p>
-<div class="codeblock">
-<div class="blockcontent"><pre>
-jemdoc index
-</pre></div></div>
-<h2>CSS</h2>
-<p>You will need to provide a <a href="http://www.w3.org/Style/CSS/" target=&ldquo;blank&rdquo;>CSS</a> file on your
-server. By default it should be called <tt>jemdoc.css</tt>. Here is an example
-<a href="dist/jemdoc.css" target=&ldquo;blank&rdquo;>jemdoc.css</a> file: download it and place it in the same
-directory as your html files. (Or customize it, or start from scratch!)
-</p>
-<h2>Change the configuration</h2>
-<p>To choose a different output file, use <tt>-o</tt>:
-</p>
-<div class="codeblock">
-<div class="blockcontent"><pre>
-jemdoc -o html/index.html index
-</pre></div></div>
-<p>You can specify a different output directory with <tt>-o</tt>:
-</p>
-<div class="codeblock">
-<div class="blockcontent"><pre>
-jemdoc -o html/ index
-</pre></div></div>
-<p>This will instead output to <tt>html/index.html</tt>.
-</p>
-<p>To change the html configuration (<a href="htmlchanges.html" target=&ldquo;blank&rdquo;>details here</a>), use <tt>-c</tt>:
-</p>
-<div class="codeblock">
-<div class="blockcontent"><pre>
-jemdoc -c mysite.conf index
-</pre></div></div>
-<p>Command line options may be combined. For example, the following command will
-use <tt>mysite.conf</tt>, reading syntax from <tt>index.jemdoc</tt> and outputting to
-<tt>html/index.html</tt>:
-</p>
-<div class="codeblock">
-<div class="blockcontent"><pre>
-jemdoc -c mysite.conf -o html/ index
-</pre></div></div>
-<h2>Other command line options</h2>
-<p>To check which version of jemdoc you are using, run the command
-</p>
-<div class="codeblock">
-<div class="blockcontent"><pre>
-jemdoc --version
-</pre></div></div>
-<p>To get simple command-line help, you can run <tt>jemdoc</tt> without arguments, or
-</p>
-<div class="codeblock">
-<div class="blockcontent"><pre>
-jemdoc --help
-</pre></div></div>
-<p>To show the html configuration (<a href="htmlchanges.html" target=&ldquo;blank&rdquo;>details here</a>), run
-</p>
-<div class="codeblock">
-<div class="blockcontent"><pre>
-jemdoc --show-config
-</pre></div></div>
+</li>
+</ul>
+<ul>
+<li><p>[10/2022] M. Hua, “面向6G通感一体化：感知与通信折中机理探索与分析,”  Seminar at Guangzhou University.</p>
+</li>
+</ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2023-11-02 21:43:28 China Standard Time, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2023-11-03 20:33:52 China Standard Time, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>

@@ -1,0 +1,5 @@
+1. 用cmd 指示到指定路径：C:\Users\menghua\Desktop\CityU\PersonalWebsite\scripts>
+2. 在cmd 上用命令python jemdoc.py 运行
+3. MENU中可以修改左栏的主-次目录
+4. 在jemdocs上可以对每个后缀为.jemdoc做修改
+5. 关于把图片上传到静态网页上，可通过网址：https://sm.ms/ 来实现
