@@ -1,0 +1,25 @@
+Menu
+    About me                [index.html]
+    News    [News.html]
+#    contact             [contact.html]
+
+Research
+    Publication         [Publication.html]
+    Tutorial \& Talks      [talk.html]
+#    example page        [example.html]
+#    cheat sheet         [cheatsheet.html]
+#    extra syntax        [extra.html]
+
+Others
+    Awards and Honors        [Awards.html]
+    Professional Activities       [Activities.html]
+#    modelines           [modelines.html]
+
+#goodies
+ #   vim, test          [stuff.html]
+#	latex equations     [latex.html]
+ #   mathjax             [mathjax.html]
+ #   tables              [tables.html]
+
+
+# vim: et

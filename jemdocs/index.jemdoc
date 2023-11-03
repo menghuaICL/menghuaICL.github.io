@@ -1,0 +1,77 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Welcome to My Homepage
+
+~~~
+{}{img_left}{https://s2.loli.net/2023/11/03/hu9VNM6Dk2z8Clo.jpg}{Meng Hua}{200px}{220px}{https://scholar.google.com/citations?user=AUhPtrkAAAAJ&hl=en&oi=ao}{}{raw}
+#Meng Hua  {{<img src="../imgs/china.svg" height="13px">}} ~~ [../files/CV.pdf Curriculem Vitae(CV)] \n
+#His github homepage is ~{{<a href="https://github.com/TingdiRen" target="&lt;u&gt;blank" title="github" style="text-decoration:none;"><img src="../imgs/github.svg" alt="" height="19px"></a>}}.
+==   Meng Hua
+- Postdoc
+-  City University of Hong Kong
+- Email\: ([menghua@cityu.edu.hk], [menghuagseu@gmail.com])
+[https://scholar.google.com/citations?user=AUhPtrkAAAAJ&hl=en&oi=ao  \[Google Scholar\]]
+~~~
+
+
+
+#~~~
+#{}{img_left}{https://jemnz.com/jacobm2.png}{Jacob Mattingley}{120px}{160px}{https://www.baidu.com}{}{raw}
+#Tingdi Ren  {{<img src="../imgs/china.svg" height="13px">}} ~~ [../files/CV.pdf Curriculem Vitae(CV)] \n
+#His github homepage is ~{{<a href="https://github.com/TingdiRen" target="&lt;u&gt;blank" title="github" style="text-decoration:none;"><img src="../imgs/github.svg" alt="" height="19px"></a>}}.
+#~~~
+
+
+
+== Biography
+I received the  M.S. degree in electrical and information engineering from Nanjing University of Science 
+and Technology, Nanjing, China, in 2016, and Ph.D. degree in School of Information Science and Engineering, 
+Southeast University, Nanjing, China, in 2021, under the supervision of [https://scholar.google.com/citations?user=Bx58-p4AAAAJ&hl=en Luxi Yang].  I was the recipien of the *Outstanding Ph.D. Thesis Award of  Chinese Institute of Electronics* in 2021.
+
+
+
+I have a strong background and track record in /wireless communication theory/ and /statistical signal processing estimation theory/ and 
+have strong research skills including convex optimization theory, robust optimization theory, discrete optimization theory, 
+and fractional optimization theory. I am now serving the editorial board of the /IEEE Open Journal of the Communications Society/, /Digital Signal Processing/, and /Physical Communication/. 
+
+== Work Experience 
+
+- 2023\/07\- present    ~~~ Postdoc ~~~  City University of Hong Kong ~~~(Collaborator: [https://scholars.cityu.edu.hk/en/persons/hing-cheung-so(c5a26419-5599-4f02-a416-738916471635).html Hing Cheung So])
+- 2021\/01-2023\/06  ~~~ Postdoc  ~~~  University of Macau  ~~~~~~~~~~~~~~~~~~~ (Collaborator: [https://wnt.sjtu.edu.cn/qingqingwu/index.html Qingqing Wu] )
+ 
+
+
+==Education 
+
+
+
+
+== Research 
+- Integrated Sensing and Communication
+- Intelligent Reflecting Surface-assisted Communication
+- Integrated Air-to-Ground Communication
+- Localization
+- Deep Learning
+- Convex Optimization
+
+
+
+
+#- Simple, consistent syntax.
+#- $\mbox{\LaTeX}$ [latex.html equation support].
+#- [tables.html Table support].
+#- Portability. The (single) jemdoc [http://www.python.org/ Python] file \+
+ # single css file \+ your input file {{&rarr;}} html.
+#- Based on [http://www.w3.org/Style/CSS/ CSS] so formatting specifics are
+#  independent of jemdoc.
+#- Production of clean,
+ # [http://validator.w3.org/check/referer
+ # standards-compliant] [http://www.w3.org/TR/xhtml11/ XHTML 1.1].
+#- Minimal bells and whistles, but simple fallback to raw html if required.
+
+== News
+- *New* \[09\/2023\] Our work “3D Multi-Target Localization Via Intelligent Reflecting Surface: Protocol and Analysis” 
+has been  submitted to IEEE Journal on Selected Areas in Communications [https://arxiv.org/abs/2310.15574   <font color=blue>\[arxiv\]</font>].
+- <font color=blue>1233</font>  <span style="color: red;">这是红色的文本</span> <font color="#0000dd">浅蓝色文字</font><br />
+
+- <font color="#660066">深紫色文字</font><br />
+
