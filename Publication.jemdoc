@@ -1,0 +1,45 @@
+# jemdoc: menu{MENU}{Publication.html}
+= Publications
+
+== Books
+.  Q. Wu, X. Guan, *M. Hua*, ``Intelligent Reflecting Surface For B5G\/6G Wireless Networks: Information and
+Power Transmission’’, /{{<font color="blue" size="+0.5&lt;b">Springer Nature</font> }}/, 2022.
+
+
+== Journals
+. *M. Hua*, Q. Wu, W. Chen, O. A. Dobre, and A. L. Swindlehurst, ``Secure Intelligent Reflecting Surface Aided Integrated Sensing and Communication,’’  
+/{{<font color="blue" size="+0.5&lt;b">IEEE Transactions on Wireless Communications</font> }}/, 2023, early access, doi: 10.1109\/TWC.2023.3280179.
+. *M. Hua*, Q. Wu, W. Chen, Z. Fei, H. C. So, and C. Yuen, “Intelligent reflecting surface assisted localization: Performance analysis and algorithm design,”  
+/{{<font color="blue" size="+0.5&lt;b">IEEE Wireless Communications Letters</font> }}/, 2023, early access, doi: 10.1109\/LWC.2023.3320728.
+. *M. Hua*, Q. Wu, C. He, S. Ma, and W. Chen, ``Joint Active and Passive Beamforming Design for IRS-Aided Radar-Communication,’’ /{{<font color="blue" size="+0.5&lt;b">IEEE Transactions on Wireless Communications</font> }}/, vol. 22, no. 4, pp. 2278-2294, April 2023. {{<font color="red" size="+0.8&lt;b">[*ESI Highly Cited Paper*] </font> }}
+. *M. Hua*, Q. Wu, L. Yang, R. Schober, and H. V. Poor, ``A Novel Wireless Communication Paradigm for Intelligent Reflecting Surface Based Symbiotic Radio Systems,’’ 
+/{{<font color="blue" size="+0.5&lt;b">IEEE Transactions on Signal Processing</font> }}/, vol. 70, pp. 550-565, 2022.
+. *M. Hua*, Q. Wu, ``Throughput Maximization for IRS-Aided MIMO FD-WPCN with Non-Linear EH Model’’, 
+/{{<font color="blue" size="+0.5&lt;b">IEEE Journal of Selected Topics in Signal Processing</font> }}/, vol. 16, no. 5, pp. 918-932, Aug. 2022.
+. *M. Hua*, L. Yang, Q. Wu, C. Pan, C. Li, A. L. Swindlehurst, ``UAV-Assisted Intelligent Reflecting Surface Symbiotic Radio System,’’ /{{<font color="blue" size="+0.5&lt;b">IEEE Transactions on Wireless Communications</font> }}/, vol. 20, no. 9, pp. 5769-5785, Sept. 2021.
+. *M. Hua*, Q. Wu, ``Joint Dynamic Passive Beamforming and Resource Allocation for IRS-Aided Full-Duplex WPCN,’’ /{{<font color="blue" size="+0.5&lt;b">IEEE Transactions on Wireless Communications</font> }}/, vol. 21, no. 7, pp. 4829-4843, July 2022.
+. *M. Hua*, Q. Wu, and H. V. Poor, ``Power-Efficient Passive Beamforming and Resource Allocation for IRS-Aided WPCNs,’’ /{{<font color="blue" size="+0.5&lt;b">IEEE Transactions on  Communications</font> }}/, vol. 70, no. 5, pp. 3250-3265, May 2022.
+. *M. Hua*a, Q. Wu, D.W.K. Ng, J. Zhao, L. Yang, ``Intelligent Reflecting Surface Aided Joint Processing Coordinated Multipoint Transmission,’’ /{{<font color="blue" size="+0.5&lt;b">IEEE Transactions on Communications</font> }}/, vol. 69, no. 3, pp. 1650-1665, March 2021.
+. *M. Hua*, L. Yang, C. Li, Q. Wu, A. L. Swindlehurst, ``Throughput Maximization for UAV-aided Backscatter Communication Networks,’’  /{{<font color="blue" size="+0.5&lt;b">IEEE Transactions on Communications</font> }}/, vol. 68, no. 2, pp. 1254-1270, Feb. 2020.
+. *M. Hua*, L. Yang, Q. Wu, and A. L. Swindlehurst, ``3D UAV Trajectory and Communication Design for Simultaneous Uplink and Downlink Transmission,’’ /{{<font color="blue" size="+0.5&lt;b">IEEE Transactions on  Communications</font> }}/, vol. 68, no. 9, pp. 5908-5923, Sept. 2020.
+. *M. Hua*a, Y. Wang, Q. Wu, H. Dai, Y. Huang and L. Yang, ``Energy-Efficient Cooperative Secure Transmission in Multi-UAV-Enabled Wireless Networks,’’ 
+/{{<font color="blue" size="+0.5&lt;b">IEEE Transactions on Vehicular Technology</font> }}/, vol. 68, no. 8, pp. 7761-7775, Aug. 2019.
+. *M. Hua*, Y. Wang, C. Li, Y. Huang, and L. Yang, ``UAV-aided Mobile Edge Computing Systems with One by One Access Scheme,’’ 
+/{{<font color="blue" size="+0.5&lt;b">IEEE Transactions on Green Communications and Networking</font> }}/, vol. 3, no. 3, pp. 664\-678, Sept. 2019.
+. *M. Hua*, L. Yang, C. Li, Z. Zhu, and I. Lee, ``Bistatic Backscatter Communication: Shunt Network Design,’’ 
+/{{<font color="blue" size="+0.5&lt;b">IEEE Internet of Things Journal</font> }}/, vol. 8, no. 9, pp. 7691-7705, May 1, 2021.
+. *M. Hua*, L. Yang, C. Pan, and A. Nallanathan, "Throughput Maximization for Full-Duplex UAV Aided Small Cell Wireless Systems,"  /{{<font color="blue" size="+0.5&lt;b">IEEE Wireless Communications Letters</font> }}/, vol. 9, no. 4, pp. 475\-479, April 2020.
+. *M. Hua*, Y. Wang, C. Li, Y. Huang, and L. Yang, "Energy-Efficient Optimization for UAV-Aided Cellular Offloading," /{{<font color="blue" size="+0.5&lt;b">IEEE Wireless Communications Letters</font> }}/, vol. 8, no. 3, pp. 769-772, June 2019.
+. *M. Hua*, Y. Wang, Z. Zhang, C. Li, Y. Huang, and L. Yang, "Power-Efficient Communication in UAV-Aided Wireless Sensor Networks," /{{<font color="blue" size="+0.5&lt;b">IEEE Communications Letters</font> }}/, vol. 22, no. 6, pp. 1264-1267, June 2018.
+
+
+== Conferences
+
+. *M. Hua*, A. L. Swindlehurst, C. Li and L. Yang, "UAV-Aided Backscatter Networks: Joint UAV Trajectory and Protocol Design," /{{<font color="blue" size="+0.5&lt;b">IEEE Global Communications Conference (GLOBECOM)</font> }}/, Waikoloa, HI, USA, 2019, pp. 1-6.
+. *M. Hua*, Q. Wu,`` Joint Dynamic Beamforming Design and Resource Allocation for IRS-Aided FD-WPCN’’, /{{<font color="blue" size="+0.5&lt;b">IEEE Global Communications Conference (GLOBECOM)</font> }}/, Madrid, Spain, 2021, pp. 1-6.
+. *M. Hua*, Q. Wu, ``Fairness-Aware Optimization for UAV-IRS Symbiotic Radio Systems,’’ /{{<font color="blue" size="+0.5&lt;b">International Conference on Communications (ICC)</font> }}/ , Canada, pp. 1-6, 2021.
+. *M. Hua*, Q.Wu,`` Energy Minimization for IRS-aided WPCNs with Non-linear Power-splitting EH Model,’’ /{{<font color="blue" size="+0.5&lt;b">IEEE Wireless Communications and Networking Conference (WCNC)</font> }}/, Austin, TX, USA, pp. 1057-1062, 2022.
+. *M. Hua*, Q. Wu, ``BER Minimization for IRS-based Commensal Symbiotic Radio Systems,’’ /{{<font color="blue" size="+0.5&lt;b">International Conference on Communications (ICC)</font> }}/, Seoul, South Korea, pp. 2016-2021, 2022.
+. *M. Hua*, Y. Wang, Z. Zhang, C. Li, Y. Huang, and L. Yang, "Optimal Resource Partitioning and Bit Allocation for UAV-Enabled Mobile Edge Computing,"  /{{<font color="blue" size="+0.5&lt;b">IEEE 88th Vehicular Technology Conference (VTC-Fall)</font> }}/, Chicago, IL, USA, 2018, pp. 1-6.
+. *M. Hua*, C. Li, Y. Huang, and L. Yang, ``Throughput maximization for UAV-enabled wireless power transfer in relaying system," 
+/{{<font color="blue" size="+0.5&lt;b">9th International Conference on Wireless Communications and Signal Processing (WCSP)</font> }}/ , Nanjing, 2017, pp. 1-5.
