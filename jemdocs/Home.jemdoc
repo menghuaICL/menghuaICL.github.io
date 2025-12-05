@@ -1,0 +1,66 @@
+# jemdoc: menu{MENU}{Home.html}, showsource
+= Welcome to My Homepage
+
+
+
+~~~
+{}{img_left}{imgs/huameng_ICL.jpg}{Meng Hua}{340px}{240px}{https://scholar.google.com/citations?user=AUhPtrkAAAAJ&hl=en&oi=ao}{}{raw}
+==  Meng Hua
+- Research Associate
+-  Imperial College London
+- Editor for IEEE TCOM and WCL
+- Email\: ([m.hua@imperial.ac.uk])
+- [https://scholar.google.com/citations?user=AUhPtrkAAAAJ&hl=en&oi=ao  \[Google Scholar\]]
+~~~
+
+
+
+
+
+#~~~
+#{}{img_left}{https://jemnz.com/jacobm2.png}{Jacob Mattingley}{120px}{160px}{https://www.baidu.com}{}{raw}
+#Tingdi Ren  {{<img src="../imgs/china.svg" height="13px">}} ~~ [../files/CV.pdf Curriculem Vitae(CV)] \n
+#His github homepage is ~{{<a href="https://github.com/TingdiRen" target="&lt;u&gt;blank" title="github" style="text-decoration:none;"><img src="../imgs/github.svg" alt="" height="19px"></a>}}.
+#~~~
+
+
+
+== Biography
+I received the  M.S. degree in electrical and information engineering from Nanjing University of Science 
+and Technology, Nanjing, China, in 2016, and Ph.D. degree in School of Information Science and Engineering, 
+Southeast University, Nanjing, China, in 2021.  I was the recipient of the *Outstanding Ph.D. Thesis Award of  Chinese Institute of Electronics* in 2021.
+
+#{{<font color="red" size="+0.5&lt;b"> <i>hhhhhhh!</i> </font> }} 
+#{{<font color="red" size="+0.5&lt;b"> hhhhhhh! </font> }}
+
+I have a strong background and track record in /physical neural network/, /wireless communication theory/, and /statistical signal processing estimation theory/ and 
+have strong research skills including deep learning, convex optimization theory, robust optimization theory, discrete optimization theory, 
+and fractional optimization theory. 
+
+== Work Experience 
+
+- 2024\/01\- present ~~~~~~ Research Associate ~~~~~~~ Imperial College London  ~~~~~  Collaborator: [https://www.imperial.ac.uk/information-processing-and-communications-lab/people/deniz/ Deniz Gunduz ]
+- 2023\/07\- 2024\/01\    ~~~~ Postdoc ~~~~~~~~~~~~~~~~~~~~~~~~~~~  City University of Hong Kong ~~~~~  Collaborator: [https://scholars.cityu.edu.hk/en/persons/ithcso/  Hing Cheung SO]
+- 2021\/01-2023\/06  ~~~~~ Postdoc  ~~~~~~~~~~~~~~~~~~~~~~~~~~~  University of Macau  
+
+#- 2023\/07\- 2024\/01\    ~~~~ Postdoc ~~~  City University of Hong Kong ~~~(Collaborator: [https://scholars.cityu.edu.hk/en/persons/hing-cheung-so(c5a26419-5599-4f02-a416-738916471635).html Hing Cheung So \[IEEE Fellow\]])
+#- 2021\/01-2023\/06  ~~~ Postdoc  ~~~  University of Macau  ~~~~~~~~~~~~~~~~~~~ (Collaborator: [https://wnt.sjtu.edu.cn/qingqingwu/index.html Qingqing Wu] )
+ 
+== Research 
+- Physical Neural Networks 
+- Multi-Modality Sensing
+- Low-Altitude Aerial Intelligent Network
+- Integrated Sensing and Communication
+- Intelligent Reflecting Surface
+- Deep Learning
+- Convex Optimization
+
+
+# add map visitors  
+{{
+<center>
+<a href='https://mapmyvisitors.com/web/1bvim'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=400&t=n&d=7dd2pTBatuw02FwcmfFjPHBMXpxhHk-_FvBj72XJtHE'/></a>
+<center>
+}}
+
+

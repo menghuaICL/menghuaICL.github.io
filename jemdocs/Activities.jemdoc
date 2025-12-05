@@ -3,60 +3,61 @@
 = Professional Activities
 
 == Editorial Boards
+- Lead Guest Editor, [https://www.sciengine.com/SSI/newsDetails?slug=newsDetails&abbreviated=scp&specialId=2a3dc3b05fe9461c992f7e85fbc29f7f&type= 中国科学信息科学, 面向6G的通感算可重构无线网络], ~~~ 2026
+- Associate editor,~~~[https://www.comsoc.org/publications/journals/ieee-tcom/ieee-transactions-communications-editorial-board IEEE Transactions on Communications], ~~~ 2024-present 
+#- Associate editor,~~~[https://vtsociety.org/publication/ieee-ojvt/ojvt-editorial-board IEEE Open Journal of Vehicular Technology], ~~~ 2024-present 
+- Associate editor,~~~[https://www.comsoc.org/publications/journals/ieee-ojcoms/ieee-open-journal-communications-society-editorial-board IEEE Open Journal of Communications Society], ~~~ 2023-present 
+- Associate editor,~~~[https://www.comsoc.org/publications/journals/ieee-tcom/ieee-transactions-communications-editorial-board IEEE  Wireless Communications Letters], ~~~ 2025-present 
+#- Handling editor,~~~[https://www.sciencedirect.com/journal/digital-signal-processing/about/editorial-board Digital Signal Processing], ~~~ 2023-present 
+#- Associate editor,~~~[https://www.sciencedirect.com/journal/physical-communication/about/editorial-board Physical Communication], ~~~ 2023-present 
+#- Guest Editor, [https://www.mdpi.com/journal/sensors/special_issues/AFOD5S3EB2 Sensors Special Issue on “Recent Advances in Signal Processing and Wireless Communications Towards 6G”], ~~~2023 
 
-- Associate editor,~~~IEEE Open Journal of Communications Society, ~~~ 2023-present 
-- Handling editor,~~~Digital Signal Processing, ~~~ 2023-present 
-- Associate editor,~~~Physical Communication, ~~~ 2023-present 
+
+== Symposium & Workshop & Special issue
+- TPC Cochair: IEEE ICC 2026 Workshop on New Evolution Waveform (NEW) forFuture Wireless Networks, Glasgow, Scotland, UK, 24- 28 May, 2026
+- Cochair: IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), Emerging Modulation Techniques Towards 6G Networks, 2025
+- Cochair:  International Conference on Wireless Communications and Signal Processing (WCSP), Signal Processing for Communications, 2025
 
 
 == Technical Program Committee
+- 2026 IEEE International Conference on Communications (ICC) on SAC Aerial Communications
+- 2026 IEEE International Conference on Communications Workshop (ICC Wkshp) on Integrated Sensing and Communication
+- 2026 IEEE International Conference on Communications Workshop (ICC Wkshp) on Wireless Communication
+- 2025 IEEE Global Communications Conference Workshop (GLOBECOM Wkshp) on Emerging Topics in 6G Communications
+- 2025 IEEE Wireless Communications and Networking Conference (WCNC)  on Physical Layer and Communication Theory
+- 2024 IEEE Wireless Communications and Networking Conference (WCNC)  on Emerging Technologies, Network Architectures and Applications
+- 2024 IEEE Wireless Communications and Networking Conference (WCNC)  on Medium Access Control and Networking
+- 2023 IEEE Global Communications Conference Workshop (GLOBECOM Wkshp) on Celluar UAV and Satellite Communications
+- 2023 IEEE Global Communications Conference (GLOBECOM) on Cognitive Radio and AI-enabled Network Symposium
+- 2023 IEEE Global Communications Conference (GLOBECOM) on Signal Processing for Communications
+- 2023 IEEE Global Communications Conference (GLOBECOM) on Wireless Communications
+- 2023 IEEE Global Communications Conference (GLOBECOM) on SAC Satellite and Space Communications
+- 2023 IEEE International Conference on Communications (ICC) on SAC Aerial Communications
+- 2023 IEEE International Conference on Communications Workshop (ICC Wkshp) on Integrating UAVs into 5G and Beyond
+- 2023 IEEE International Conference on Communications Workshop (ICC Wkshp) on Integrated Sensing and Communication
+- 2023 IEEE Vehicular Technology Conference (VTC) on Signal Transmission and Reception
+- 2022 IEEE International Conference on Communications Workshop (ICC Wkshp) on Integrating UAVs into 5G and Beyond
+- 2022 International Conference on Wireless Communications and Signal Processing (WCSP)
+- 2022 IEEE Global Communications Conference Workshop (GLOBECOM Wkshp) on Celluar UAV and Satellite Communications
+- 2022 IEEE Global Communications Conference (GLOBECOM) on SAC Satellite and Space Communications
+- 2022 IEEE International Conference on Communications (ICC) on SAC Aerial Communications
+- 2022 IEEE Global Communications Conference Workshop (GLOBECOM Wkshp) on Emerging Topics in 6G Communications
+- 2021 IEEE International Conference on Communications (ICC) on SAC Aerial Communications
+- 2021 IEEE Global Communications Conference Workshop (GLOBECOM Wkshp) on Celluar UAV and Satellite Communications
+- 2021 IEEE International Conference on Communications Workshop (ICC Wkshp) on Integrating UAVs into 5G and Beyond
 
 
-Editorial Boards
 
-jemdoc provides an easy way to add a `menu' like the one you see at the left of
-this page. You should create a file called +MENU+, for example, in the current
-directory. This website's +MENU+ looks something like this:
-
-~~~
-{}{}
-jemdoc
-    home                [index.html]
-    Research            [Research.html]
-    revision history    [revision.html]
-    contact             [contact.html]
-
-user's guide
-    cheat sheet         [cheatsheet.html]
-    using               [using.html]
-
-goodies
-    add a menu          [menu.html]
-    other stuff         [stuff.html]
-~~~
-
-To use the menu, start the first line of /each/ source file with a special
-comment like this one:
-
-~~~
-{}{}
-# jemdoc: menu{MENU}{index.html}
-~~~
-
-(Replace +index.html+ with the name of the relevant html page.) This will add a
-menu from the file called +MENU+, and underline and darken the menu entry
-corresponding to +index.html+.
-
-== Relative paths
-Optionally, include a +prefix+ which instructs jemdoc where the root of the menu
-is located relative to a particular page.
-~~~
-{}{}
-# jemdoc: menu{MENU}{pageinsubdir.html}{prefix}
-~~~
-
-== A note on menu widths
-jemdoc will create menu entries that do not wrap. If you have a particularly
-long title, or menu item, insert manual linebreaks using +\\++n+ in your
-MENU file. Multi-line menu items will (by default) have their second and
-subsequent lines slightly indented.
+== Reviewer:
+- IEEE Transactions on Signal Processing
+- IEEE Transactions on Wireless Communications
+- IEEE Transactions on Communications
+- IEEE Journal on Selected Areas in Communications
+- IEEE Journal of Selected Topics in Signal Processing
+- IEEE Transactions on Information Forensic and Security
+- IEEE Transactions on Vehicular Technology
+- IEEE Transactions on Green Communications and Networking
+- IEEE Communications Letters
+- IEEE Wireless Communications Letters
+- IEEE Signal Processing Letters
+- Conferences: ICC, GLOBECOM, VTC, WCNC, PIMRC, SPAWC, WCSP, ICCC, ICCS

@@ -1,18 +1,21 @@
-Menu
-    About me                [index.html]
-    News    [News.html]
+MENU
+    About me                [Home.html]
+    News                  [News.html]
 #    contact             [contact.html]
 
-Research
+Research Direction           [Research.html]
+
     Publication         [Publication.html]
-    Tutorial \& Talks      [talk.html]
+ #  Tutorial \& Talks      [talk.html]
 #    example page        [example.html]
 #    cheat sheet         [cheatsheet.html]
 #    extra syntax        [extra.html]
 
-Others
+#Others
     Awards and Honors        [Awards.html]
     Professional Activities       [Activities.html]
+	People   [People.html]
+	Project      [Project.html]
 #    modelines           [modelines.html]
 
 #goodies
